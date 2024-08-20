@@ -3,7 +3,7 @@
 This repository is a comprehensive collection of cybersecurity-related references, scripts, tools, code, and other resources. It is carefully curated and maintained by [Siddhant-Rangra]).
 
 ## Overview
-The repository serves as a supplemental material provider to several books, video courses, and live training created by Omar Santos. It encompasses over 10,000 references that are instrumental for both offensive and defensive security professionals in honing their skills.
+The repository serves as a supplemental material provider to several books, video courses, and live training created by Siddhant Rangra. It encompasses over 10,000 references that are instrumental for both offensive and defensive security professionals in honing my skills.
 
 ## Key Areas of Focus
 
