@@ -27,5 +27,5 @@ If you wish to contribute, please read the [CONTRIBUTING.md](CONTRIBUTING.md) fi
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact
-For any inquiries or feedback, please feel free to contact [Siddhant Rangra](www.linkedin.com/in/siddhant-rangra/).
+For any inquiries or feedback, please feel free to contact [Siddhant Rangra](https://www.linkedin.com/in/siddhant-rangra/).
 
